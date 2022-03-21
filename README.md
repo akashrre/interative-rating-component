@@ -1,0 +1,1 @@
+# interative-rating-component
